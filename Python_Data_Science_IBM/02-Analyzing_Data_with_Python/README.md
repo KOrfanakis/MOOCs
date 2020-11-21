@@ -1,4 +1,4 @@
-# Drinking Habits of Global Population
+# Drinking Habits of the Global Population
 
 <p align="center">
   <img width="450" src="https://images.unsplash.com/photo-1506377247377-2a5b3b417ebb?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80">

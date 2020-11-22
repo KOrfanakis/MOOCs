@@ -25,5 +25,5 @@ Python Version: 3.7
 Packages: pandas, sklearn, numpy, matplotlib, seaborn
 
 Other Resources: 
-- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), 2nd edition by Aurélien Géron
-- [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/) by Andreas C. Müller, Sarah Guido
+- [Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/), by Aurélien Géron (2nd edition)
+- [Introduction to Machine Learning with Python](https://www.oreilly.com/library/view/introduction-to-machine/9781449369880/), by Andreas C. Müller and Sarah Guido

@@ -8,7 +8,7 @@
 
 This notebook is an improved version of my final assignment submission for [IBM](https://www.edx.org/school/ibm)’s online course '[Machine Learning with Python: A Practical Introduction](https://www.edx.org/course/machine-learning-with-python-a-practical-introduct)' on [edX](https://www.edx.org/). Its main aim is to practice some of the classification algorithms that we learned in this course. You can view my initial submission [here](https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/5f1b6d25-ddef-45bb-bef9-f716770cdb96/view?access_token=9479c5ce107d2876a3a2aa1b281d6491aa50f228072a576ac6334b0b80ca36ff).
 
-The main focus is on testing our knowledge of machine learning (building and evaluating models). Therefore, some important parts of the typical machine learning workflow are missing, such as a complete exploratory data analysis and a more elaborate pre-processing stage. I intend to feel these gaps in a future version of this notebook.
+The main focus is on testing our knowledge of machine learning (building and evaluating models). Therefore, some important parts of the typical machine learning workflow are missing, such as a complete exploratory data analysis and a more elaborate pre-processing stage. I intend to fill these gaps in a future version of this notebook.
 
 ## Objective
 

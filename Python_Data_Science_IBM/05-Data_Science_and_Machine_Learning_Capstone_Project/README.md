@@ -5,9 +5,13 @@
 </p>
 <p align="center"><em>Photo by Luca Bravo (Unsplash)</em></p>
 
-This folder contains the notebooks I used to complete IBM's online course '[Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)' on edX. The course is organised into four modules, one for each of the problem set's four questions. I decided to follow the same structure and present the answer to each question in a separate notebook. There is an additional notebook (titled 'Quiz on Data Ingestion') whose purpose is to familiarise the reader with the datasets. 
+This folder contains the notebooks I used to complete IBM's online course '[Data Science and Machine Learning Capstone Project](https://www.edx.org/course/data-science-and-machine-learning-capstone-project)' on edX. I completed the course in July 2020.
+
+The course is organised into four modules, one for each of the problem set's four questions. I decided to follow the same structure and present the answer to each question in a separate notebook. There is an additional notebook (titled 'Quiz on Data Ingestion') whose purpose is to familiarise the reader with the datasets. 
 
 At the end of each module, a quiz section is used for assessment. I have also included this section at the end of each notebook. 
+
+I have also organised the same analysis as one [Kaggle notebook](https://www.kaggle.com/korfanakis/capstone-project-nyc-311-complaint-dataset). 
 
 <br>
 
@@ -64,7 +68,7 @@ We can answer the first two problem statements by performing Exploratory Data An
 
 For the third problem, we need to include building characteristics in our analysis. Therefore, we will first merge the two datasets and then examine the correlation between the most common complaint type and the building characteristics.
 
-Finally, the fourth problem statement requires the basic Machine Learning (ML) workflow. After preprocessing the merged dataset, we will build two ML models for predicting a building's chance of showing the most common characteristic. The algorithms used are Random Forest and XGBoost classifier.
+Finally, the fourth problem statement requires the basic Machine Learning (ML) workflow. After preprocessing the merged dataset, we will build two ML models for predicting a building's chance of showing the most common complaint type. The algorithms used are Random Forest and XGBoost classifier.
 
 <br>
 

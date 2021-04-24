@@ -1,6 +1,6 @@
 # Massive Open Online Courses (MOOCs)
 
-This repository contains assignment solutions for online courses. So far, I have completed the [Python Data Science Professional Certificate](https://www.edx.org/professional-certificate/python-data-science), which consists of five individual courses.
+This repository contains assignment solutions for online courses I have completed. Only courses with assignments including coding (instead of a questionnaire) are included. 
 
 <br><br>
 

@@ -1,0 +1,1 @@
+The final assignment for this course was a questionnaire. However, you can still view some skills I acquired from this course by visiting my [profile on Kaggle](https://www.kaggle.com/korfanakis/code). 
